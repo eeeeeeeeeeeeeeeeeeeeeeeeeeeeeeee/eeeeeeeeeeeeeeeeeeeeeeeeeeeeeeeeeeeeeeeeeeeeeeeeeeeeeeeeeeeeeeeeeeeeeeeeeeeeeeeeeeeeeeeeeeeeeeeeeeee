@@ -9,5 +9,5 @@ int main()
 
 int on_exit()
 {
-	return 0;
+	return 'e';
 }
