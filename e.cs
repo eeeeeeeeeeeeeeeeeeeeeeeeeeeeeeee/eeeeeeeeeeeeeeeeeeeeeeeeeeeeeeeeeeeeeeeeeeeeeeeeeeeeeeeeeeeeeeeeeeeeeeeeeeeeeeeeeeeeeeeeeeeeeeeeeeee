@@ -11,7 +11,7 @@ namespace e
             {
                 for (int eee = 0; eee < Ee.Length; eee++)
                 {
-                    Console.Write(new string('E', Ee[eee]));
+                    Console.Write(new string('e', Ee[eee]));
 
                     Console.ForegroundColor = Console.ForegroundColor >= ConsoleColor.White ?
                     Console.ForegroundColor = ConsoleColor.DarkBlue :
