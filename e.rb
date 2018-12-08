@@ -1,3 +1,3 @@
-loop
+loop do
   puts "e"
 end
