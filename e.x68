@@ -15,8 +15,3 @@ LOOP    MOVE.B  #13, D0
         TRAP    #15
         BRA     LOOP
         END     START
-
-*~Font name~Courier New~
-*~Font size~12~
-*~Tab type~1~
-*~Tab size~4~
