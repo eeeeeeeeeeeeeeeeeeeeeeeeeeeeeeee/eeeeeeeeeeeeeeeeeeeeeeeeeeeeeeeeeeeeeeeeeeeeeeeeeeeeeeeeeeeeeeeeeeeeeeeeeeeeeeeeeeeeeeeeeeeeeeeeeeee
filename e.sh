@@ -1,2 +1,2 @@
 #!/bin/sh
-echo e
+while True; do printf e; done
