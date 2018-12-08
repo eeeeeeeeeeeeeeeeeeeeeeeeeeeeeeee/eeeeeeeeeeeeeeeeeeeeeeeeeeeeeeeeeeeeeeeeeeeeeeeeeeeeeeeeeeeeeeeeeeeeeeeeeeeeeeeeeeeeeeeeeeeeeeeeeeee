@@ -1,3 +1,3 @@
 while true
-puts "e"
+  puts "e"
 end
