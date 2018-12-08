@@ -1,5 +1,5 @@
 fn main() {
 	loop {
-		println!("e")
+		println!("e");
 	}
 }
