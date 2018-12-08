@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace Eeeee
+namespace e
 {
     public class E
     {
@@ -9,9 +9,9 @@ namespace Eeeee
         {
             while (true)
             {
-                for (int e = 0; e < Ee.Length; e++)
+                for (int eee = 0; eee < Ee.Length; eee++)
                 {
-                    Console.Write(new string('E', Ee[e]));
+                    Console.Write(new string('E', Ee[eee]));
 
                     Console.ForegroundColor = Console.ForegroundColor >= ConsoleColor.White ?
                     Console.ForegroundColor = ConsoleColor.DarkBlue :
