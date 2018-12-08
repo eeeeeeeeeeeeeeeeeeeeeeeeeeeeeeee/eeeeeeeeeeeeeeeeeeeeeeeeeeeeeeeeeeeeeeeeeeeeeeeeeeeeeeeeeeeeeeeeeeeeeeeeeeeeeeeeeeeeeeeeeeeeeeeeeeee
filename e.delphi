@@ -1,0 +1,8 @@
+program e;
+begin
+while
+  while true do
+    begin	   
+      writeln('e');
+    end;
+end.
