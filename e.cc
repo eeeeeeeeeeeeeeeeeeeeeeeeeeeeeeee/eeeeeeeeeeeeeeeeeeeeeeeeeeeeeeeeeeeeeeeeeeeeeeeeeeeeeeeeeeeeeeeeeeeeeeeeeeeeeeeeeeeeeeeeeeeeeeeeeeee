@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	for(;;) cout << "e";
+	while('e') cout << "e";
 	return 'e';
 }
