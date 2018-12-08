@@ -2,6 +2,6 @@
 #[main]
 fn e() {
     loop {
-        println!("e");
+        print!("e");
     }
 }
