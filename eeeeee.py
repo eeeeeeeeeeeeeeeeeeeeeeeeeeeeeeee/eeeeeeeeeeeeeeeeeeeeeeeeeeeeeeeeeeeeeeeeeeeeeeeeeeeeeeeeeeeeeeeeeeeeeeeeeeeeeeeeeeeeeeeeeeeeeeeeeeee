@@ -1,10 +1,7 @@
 """EEe ee eeeee eee""
+from itertools import repeat
 
-eee = 1
-eeee = 1000000000
-ee = ['e' for e in range(eee, eeee)]
-
-for e in ee:
+for e in repeat("e"):
     print(e)
     
 # eeee
