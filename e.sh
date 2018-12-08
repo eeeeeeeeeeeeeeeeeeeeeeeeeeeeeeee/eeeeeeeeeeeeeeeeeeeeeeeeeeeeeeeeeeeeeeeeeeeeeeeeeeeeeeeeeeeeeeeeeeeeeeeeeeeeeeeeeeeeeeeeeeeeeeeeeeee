@@ -1,2 +1,2 @@
 #!/bin/sh
-echo e
+yes e | tr -d '\n'
