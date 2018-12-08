@@ -1,1 +1,3 @@
-main = putStr "e" >> main
+import Control.Monad.Fix
+main = putStr $ fix ('e':)
+
