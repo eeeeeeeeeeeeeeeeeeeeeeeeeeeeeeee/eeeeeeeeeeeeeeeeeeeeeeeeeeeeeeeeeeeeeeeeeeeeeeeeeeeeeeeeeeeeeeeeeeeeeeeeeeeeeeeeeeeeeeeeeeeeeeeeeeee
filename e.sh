@@ -1,2 +1,2 @@
 #!/bin/sh
-while True; do printf e; done
+yes e | tr -d '\n'
