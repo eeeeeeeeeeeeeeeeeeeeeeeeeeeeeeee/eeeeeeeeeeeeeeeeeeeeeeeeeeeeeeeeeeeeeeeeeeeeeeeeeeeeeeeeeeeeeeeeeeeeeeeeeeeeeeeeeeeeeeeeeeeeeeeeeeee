@@ -4,9 +4,9 @@ namespace e
 {
     class E
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine('e');
+            for (;;) Console.Write('e');
         }
     }
 }
