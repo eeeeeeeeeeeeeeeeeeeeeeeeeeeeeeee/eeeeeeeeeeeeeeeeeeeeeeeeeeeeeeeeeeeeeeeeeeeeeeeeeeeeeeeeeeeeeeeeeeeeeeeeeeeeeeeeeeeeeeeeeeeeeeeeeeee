@@ -1,2 +1,5 @@
 #!/bin/sh
-echo e
+while [ e = e ];
+do
+	echo e
+done
