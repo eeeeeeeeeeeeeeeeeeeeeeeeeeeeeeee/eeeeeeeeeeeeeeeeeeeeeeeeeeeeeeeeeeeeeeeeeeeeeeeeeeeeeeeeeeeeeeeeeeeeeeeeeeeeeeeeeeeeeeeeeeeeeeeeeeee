@@ -3,17 +3,15 @@ global      _start
 
 _start:                                         
 
+	loop:
 	mov rax, 1
 	mov rdi, 1
 	mov rsi, msg
 	mov rdx, len
 	syscall
-
-	mov rax, 60
-	mov rdi, 1 
-	syscall                              
+	jmp loop                             
 
 section     .data
 
-msg: db "e", 0xa                 
+msg: db "e"                 
 len: equ $ - msg                             
