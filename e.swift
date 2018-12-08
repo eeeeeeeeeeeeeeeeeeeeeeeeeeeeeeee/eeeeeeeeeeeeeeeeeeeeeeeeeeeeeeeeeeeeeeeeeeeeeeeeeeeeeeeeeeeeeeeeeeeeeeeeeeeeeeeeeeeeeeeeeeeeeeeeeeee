@@ -1,2 +1,3 @@
-let e = "e"
-print(e)
+while true {
+  print("e")
+}
