@@ -1,3 +1,3 @@
-while true
-puts "e"
+loop
+  puts "e"
 end
