@@ -1,26 +1,29 @@
 using System;
 using System.Threading;
 
-public class Program
+namespace Eeeee
 {
-    private static void Main(string[] args)
+    public class E
     {
-        while (true)
+        private static void Main(string[] args)
         {
-            for (int e = 0; e < E.Length; e++)
+            while (true)
             {
-                Console.Write(new string('E', E[e]));
+                for (int e = 0; e < Ee.Length; e++)
+                {
+                    Console.Write(new string('E', Ee[e]));
 
-                Console.ForegroundColor = Console.ForegroundColor >= ConsoleColor.White ?
-                Console.ForegroundColor = ConsoleColor.DarkBlue :
-                Console.ForegroundColor + 1;
-                Console.WriteLine();
+                    Console.ForegroundColor = Console.ForegroundColor >= ConsoleColor.White ?
+                    Console.ForegroundColor = ConsoleColor.DarkBlue :
+                    Console.ForegroundColor + 1;
+                    Console.WriteLine();
+                }
+
+                Thread.Sleep(0xEE);
+                Console.Clear();
             }
-
-            Thread.Sleep(0xEE);
-            Console.Clear();
         }
-    }
 
-    private static int[] E = new int[] { 19, 19, 19, 3, 3, 3, 3, 3, 19, 19, 19, 3, 3, 3, 3, 3, 19, 19, 19, };
+        private static int[] Ee = new int[] { 19, 19, 19, 3, 3, 3, 3, 3, 19, 19, 19, 3, 3, 3, 3, 3, 19, 19, 19, };
+    }
 }
