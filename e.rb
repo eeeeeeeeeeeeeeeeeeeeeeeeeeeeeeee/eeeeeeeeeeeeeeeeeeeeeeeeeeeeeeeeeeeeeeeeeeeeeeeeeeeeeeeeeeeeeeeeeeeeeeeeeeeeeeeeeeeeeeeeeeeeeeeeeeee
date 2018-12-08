@@ -1,3 +1,1 @@
-while true
-puts "e"
-end
+loop { puts 'e' }
