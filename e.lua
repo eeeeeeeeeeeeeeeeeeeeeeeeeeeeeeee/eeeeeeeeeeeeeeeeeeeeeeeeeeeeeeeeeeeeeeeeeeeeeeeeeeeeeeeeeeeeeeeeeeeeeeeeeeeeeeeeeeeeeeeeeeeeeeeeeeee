@@ -1,1 +1,3 @@
-print('e');
+while true do
+    print('e')
+end
