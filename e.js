@@ -1,1 +1,1 @@
-while (true) console.log('e');
+while ('e') console.log('e');
