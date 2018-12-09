@@ -1,0 +1,6 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT e (#PCDATA)>
+<!ATTLIST e
+  xmlns CDATA #FIXED ''
+  e NMTOKEN #REQUIRED>
