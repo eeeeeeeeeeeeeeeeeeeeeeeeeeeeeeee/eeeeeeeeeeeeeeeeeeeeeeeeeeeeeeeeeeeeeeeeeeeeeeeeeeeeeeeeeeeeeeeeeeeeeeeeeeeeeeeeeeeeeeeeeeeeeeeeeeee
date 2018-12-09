@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+
+project (e)
+
+message("e")
+
+add_executable(e e.cpp)
