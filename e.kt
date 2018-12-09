@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    while (true) {
+    while ("e"=="e") {
     	println("e")
     }
 }
