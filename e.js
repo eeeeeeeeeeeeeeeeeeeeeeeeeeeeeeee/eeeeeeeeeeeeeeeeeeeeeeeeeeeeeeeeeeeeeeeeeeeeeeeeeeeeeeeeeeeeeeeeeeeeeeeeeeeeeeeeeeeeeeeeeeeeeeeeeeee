@@ -1,1 +1,5 @@
-while ('e') console.log('e');
+const e = true
+
+do {
+  console.log('e')
+} while (e)
