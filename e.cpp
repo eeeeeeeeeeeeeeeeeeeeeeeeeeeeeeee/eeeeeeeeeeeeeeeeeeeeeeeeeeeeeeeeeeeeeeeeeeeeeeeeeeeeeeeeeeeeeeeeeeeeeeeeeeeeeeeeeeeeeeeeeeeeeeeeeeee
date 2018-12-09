@@ -1,13 +1,29 @@
 #include <iostream>
-using namespace std;
+#define e using
+#define ee namespace
+#define eee std
+#define eeee ;
+#define eeeee int
+#define eeeeee main
+#define eeeeeee (
+#define eeeeeeee )
+#define eeeeeeeee while
+#define eeeeeeeeee true
+#define eeeeeeeeeee {
+#define eeeeeeeeeeee }
+#define eeeeeeeeeeeee cout
+#define eeeeeeeeeeeeee cerr
+#define eeeeeeeeeeeeeee <<
+#define eeeeeeeeeeeeeeee 'e'
+#define eeeeeeeeeeeeeeeee return
 
-int main()
-{
-    while(true)
-    {
-        cout << 'e';
-        cerr << 'e';
-    }
-
-    return 'e';
-}
+e ee eee eeee
+eeeee eeeeee eeeeeee eeeeeeee
+eeeeeeeeeee
+eeeeeeeee eeeeeee eeeeeeeeee eeeeeeee
+eeeeeeeeeee
+eeeeeeeeeeeee eeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeee
+eeeeeeeeeeeeee eeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeee
+eeeeeeeeeeee
+eeeeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeee
+eeeeeeeeeeee
