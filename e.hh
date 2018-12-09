@@ -1,7 +1,7 @@
 <?hh // strict
 
 <<__Entrypoint>>
-function main() {
+function main(): void {
   while(true) {
     echo 'e';
   }
