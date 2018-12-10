@@ -1,6 +1,6 @@
 from __future__ import print_function
-
-exec('''
+try:
+    exec('''
          'eeeeee'\
       'eeee'\nimport\
     sys\n'    '\nwhile\
@@ -12,3 +12,5 @@ exec('''
    'eeeeeeeeeeeeeeeee'\
        'ee',end='')
 '''[10:])
+except EEEEEEEEEEE:
+         return EEEEEEEEEEE, eeeeeeeEEEee
