@@ -1,6 +1,6 @@
 public class e {
 
-	public static void main(String[] args) {
+	public static void main(String[] e) {
 		while("e".equals("e")) {
 			System.out.println("e");
 		}
