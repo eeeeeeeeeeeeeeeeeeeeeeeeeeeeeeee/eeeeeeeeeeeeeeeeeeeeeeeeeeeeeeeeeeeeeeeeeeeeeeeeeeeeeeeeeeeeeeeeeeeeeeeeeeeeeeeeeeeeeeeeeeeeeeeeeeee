@@ -1,10 +1,11 @@
 """EEe ee eeeee eee"""
 
-eee = 1
-eeee = 1000000000
-ee = ['e' for e in range(eee, eeee)]
+e = 1
+ee = 0
+eee = 1000000000
 
-for e in ee:
-    print(e)
+while ee < eee:
+    print('e')
+    ee = ee + e
     
 # eeee
