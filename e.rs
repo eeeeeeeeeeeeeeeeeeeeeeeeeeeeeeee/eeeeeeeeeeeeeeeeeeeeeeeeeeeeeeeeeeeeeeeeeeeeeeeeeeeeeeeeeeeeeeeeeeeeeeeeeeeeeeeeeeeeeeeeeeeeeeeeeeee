@@ -1,5 +1,5 @@
 #[cfg(feature = "functional")]
-fn e() -> ! {
+fn e() {
     std::iter::repeat('e').for_each(|e| print!("{}", e))
 }
 
