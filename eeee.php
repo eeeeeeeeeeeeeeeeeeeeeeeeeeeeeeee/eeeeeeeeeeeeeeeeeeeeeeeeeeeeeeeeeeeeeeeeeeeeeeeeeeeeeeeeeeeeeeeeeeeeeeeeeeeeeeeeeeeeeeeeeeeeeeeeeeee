@@ -2,6 +2,6 @@
 
 $e = true;
 
-while ($e) {
+while ($e == $e) {
   echo "e";
 }
