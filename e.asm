@@ -3,10 +3,10 @@ global      _start
 
 _start:                                         
 
-	mov rax, 1
-	mov rdi, rax
+	mov eax, 1
+	mov edi, eax
 	mov rsi, msg
-	mov rdx, rax
+	mov edx, eax
 	loop:
 	syscall
 	jmp loop                             
