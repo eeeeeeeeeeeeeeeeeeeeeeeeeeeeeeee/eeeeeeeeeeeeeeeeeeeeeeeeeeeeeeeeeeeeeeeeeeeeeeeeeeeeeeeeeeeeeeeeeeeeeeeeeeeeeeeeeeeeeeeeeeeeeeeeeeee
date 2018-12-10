@@ -1,8 +1,10 @@
 .ORIG x3000
 
-  AND R0, R0, #0
-  LEA R0, e
-  PUTS
+  
+loop AND R0, R0, #0
+     LEA R0, e
+     PUTS
+BRnzp loop  
 
 HALT
 
