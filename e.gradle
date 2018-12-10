@@ -1,0 +1,19 @@
+
+buildscript {
+    repositories {
+        e()
+    }
+    dependencies {
+        classpath 'com.e.e.e:eee:e.e.e'
+    }
+}
+
+allprojects {
+    repositories {
+        e()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
