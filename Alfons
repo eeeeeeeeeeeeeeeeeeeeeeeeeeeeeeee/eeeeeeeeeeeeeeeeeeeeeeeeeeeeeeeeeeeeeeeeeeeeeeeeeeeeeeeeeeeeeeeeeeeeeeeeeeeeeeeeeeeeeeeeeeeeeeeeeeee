@@ -1,0 +1,3 @@
+-- alfons: moon
+export always   = => while true do print "e"
+export teardown = => while true do print "e"
