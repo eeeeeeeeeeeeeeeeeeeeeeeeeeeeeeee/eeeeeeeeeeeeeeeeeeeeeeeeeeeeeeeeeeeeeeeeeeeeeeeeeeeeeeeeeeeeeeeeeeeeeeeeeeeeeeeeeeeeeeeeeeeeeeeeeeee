@@ -6,7 +6,8 @@ namespace e
     {
         static void Main(string[] args)
         {
-            Console.WriteLine('e');
+            while (true)
+                Console.WriteLine('e');
         }
     }
 }
