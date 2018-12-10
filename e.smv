@@ -1,0 +1,8 @@
+MODULE e
+  VAR
+    e: { e };
+  ASSIGN
+    init(e) := e;
+    next(e) := e;
+    esac;
+  SPEC AG ( TRUE -> AF e = e)
