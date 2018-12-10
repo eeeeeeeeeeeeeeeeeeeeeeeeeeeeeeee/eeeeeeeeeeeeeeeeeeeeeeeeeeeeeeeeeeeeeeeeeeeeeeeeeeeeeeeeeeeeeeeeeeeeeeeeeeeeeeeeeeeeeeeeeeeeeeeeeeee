@@ -6,6 +6,6 @@ import (
 
 func main() {
 	for {
-		fmt.Print("e")
+		fmt.Printf("  eeeeee\neeeeeeeeee\neeee  eeee\neee    eee\neeeeeeeeee\neee\neee\n eee   eee\n  eeeeeee\n")
 	}
 }
