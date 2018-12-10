@@ -1,0 +1,3 @@
+grammar e;
+
+e: 'e'+;
