@@ -3,7 +3,7 @@
 int main()
 {
 	for (;;) {
-		printf("e");
+		putchar_unlocked('e');
 	}
 }
 
