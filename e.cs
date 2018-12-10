@@ -4,9 +4,14 @@ namespace e
 {
     class E
     {
+        const bool e = true;
+        
         static void Main(string[] args)
         {
-            Console.WriteLine('e');
+            while (e)
+            {
+                Console.Write('e');
+            }
         }
     }
 }
