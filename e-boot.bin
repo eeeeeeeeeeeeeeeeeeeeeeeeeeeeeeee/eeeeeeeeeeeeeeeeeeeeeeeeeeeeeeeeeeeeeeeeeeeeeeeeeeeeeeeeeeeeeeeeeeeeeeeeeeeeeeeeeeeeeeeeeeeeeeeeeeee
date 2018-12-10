@@ -1,0 +1,10 @@
+start:
+mov al, 'e'
+int 0x10
+jmp start
+
+jmp $ ; jump to current address = infinite loop
+
+; padding and magic number
+times 510 - ($-$$) db 0
+dw 0xaa55 
