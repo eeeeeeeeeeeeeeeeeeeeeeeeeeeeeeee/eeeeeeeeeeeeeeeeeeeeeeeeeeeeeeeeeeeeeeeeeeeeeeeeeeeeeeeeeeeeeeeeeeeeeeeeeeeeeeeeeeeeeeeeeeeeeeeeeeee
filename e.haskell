@@ -1,0 +1,6 @@
+infi = 
+  do
+   print "e"
+   infi
+
+main = infi
