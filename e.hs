@@ -1,3 +1,2 @@
-import Control.Monad.Fix
+import Data.Function
 main = putStr $ fix ('e':)
-
