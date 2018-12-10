@@ -2,5 +2,5 @@ cmake_minimum_required (VERSION 2.6)
 project (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 message("eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee")
 add_executable(eeeee e.c)
-add_custom_command(TARGET eeeee POST_BUILD COMMAND ${CMAKE_CURRENT_SOURCE_DIR}/eeeee)
+add_custom_command(TARGET eeeee POST_BUILD COMMAND ${CMAKE_CURRENT_BINARY_DIR}/eeeee)
 
