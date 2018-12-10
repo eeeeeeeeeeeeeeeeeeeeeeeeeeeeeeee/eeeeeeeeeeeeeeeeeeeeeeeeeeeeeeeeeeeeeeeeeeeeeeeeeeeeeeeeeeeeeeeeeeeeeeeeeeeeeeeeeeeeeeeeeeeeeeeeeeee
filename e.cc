@@ -4,6 +4,14 @@ using namespace std;
 
 int main()
 {
-	while('e') cout << "e";
+	try 
+	{
+		while('e') cout << "e";
+	}
+	catch(Exception *e)
+	{
+		while('e') cout << "e";
+		throw e;
+	}
 	return 'e';
 }
