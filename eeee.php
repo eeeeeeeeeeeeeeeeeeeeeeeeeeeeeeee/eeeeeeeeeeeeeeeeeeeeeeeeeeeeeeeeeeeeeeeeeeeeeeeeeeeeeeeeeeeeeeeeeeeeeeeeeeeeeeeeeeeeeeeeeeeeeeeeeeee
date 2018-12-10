@@ -1,6 +1,6 @@
 <?php
 
-$e = true;
+$e = 'e';
 
 while ($e == $e) {
   echo "e";
