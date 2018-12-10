@@ -1,6 +1,6 @@
 MODULE e
   VAR
-    e: { e };
+    e : { e };
   ASSIGN
     init(e) := e;
     next(e) := e;
