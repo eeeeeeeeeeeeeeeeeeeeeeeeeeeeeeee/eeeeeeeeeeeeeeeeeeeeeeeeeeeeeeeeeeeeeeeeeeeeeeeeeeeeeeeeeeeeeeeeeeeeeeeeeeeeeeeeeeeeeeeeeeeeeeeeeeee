@@ -1,10 +1,9 @@
 """EEe ee eeeee eee"""
-from itertools import repeat as eeeeee
-eeee = list
-eee = map
-eeeee = print
+from itertools import repeat as eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeee = any
+eeeeeeeee = map
+eeeeeeeeeeeeeeee = print
 e = 'e'
-
-eeee(eee(eeeee, eeeeee(e)))
+eeeeeeeeeeeeeeeeeeeeeeee(eeeeeeeee(eeeeeeeeeeeeeeee, eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee(e)))
 
 # eeee
