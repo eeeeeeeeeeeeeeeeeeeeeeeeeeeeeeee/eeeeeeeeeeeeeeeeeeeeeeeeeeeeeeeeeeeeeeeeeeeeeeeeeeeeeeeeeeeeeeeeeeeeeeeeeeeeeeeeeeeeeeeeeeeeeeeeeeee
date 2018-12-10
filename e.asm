@@ -3,15 +3,14 @@ global      _start
 
 _start:                                         
 
-	mov rax, 1
-	mov rdi, 1
+	mov eax, 1
+	mov edi, eax
 	mov rsi, msg
-	mov rdx, len
+	mov edx, eax
 	loop:
 	syscall
 	jmp loop                             
 
 section     .data
 
-msg: db "e"                 
-len: equ $ - msg                             
+msg: db "e"
