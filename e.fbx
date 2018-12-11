@@ -1,5 +1,5 @@
-; FBX 6.1.0 project file
-; Created by Blender FBX Exporter
+; FBX 6.1.0 projeeeeeeeeeeect fileeeeeeeeeeeee
+; Creeeeeeeeeeeeeeeeeeeeeeeeated by Bleeeeeeeeeeeeeeeeeeeeeeeeendeeeeeeeeeeeer FBX Exporteeeeeeeeeer
 ; for support mail: ideasman42@gmail.com
 ; ----------------------------------------------------
 
@@ -24,7 +24,7 @@ FBXHeaderExtension:  {
 CreationTime: "2018-12-11 10:55:17:000"
 Creator: "Blender version 2.79 (sub 0)"
 
-; Object definitions
+; Objeeeeeeeeeeeeect deeeeeeeeeeeeeeeeeeeeeeeeeeeefinitions
 ;------------------------------------------------------------------
 
 Definitions:  {
@@ -47,7 +47,7 @@ Definitions:  {
 	}
 }
 
-; Object properties
+; Objeeeeeeeeeeeeeeeeeeeeeeeeeect propeeeeeeeeeeeeeeeeeeeerties
 ;------------------------------------------------------------------
 
 Objects:  {
@@ -544,7 +544,7 @@ Objects:  {
 	}
 }
 
-; Object relations
+; Objeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeect reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeelations
 ;------------------------------------------------------------------
 
 Relations:  {
@@ -570,20 +570,20 @@ Relations:  {
 	}
 }
 
-; Object connections
+; Objeeeeeeeeeeeeeeeeeeeeect conneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeections
 ;------------------------------------------------------------------
 
 Connections:  {
 	Connect: "OO", "Model::e", "Model::Scene"
 	Connect: "OO", "Material::unnamed", "Model::e"
 }
-;Takes and animation section
+;Takeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees and animation seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeection
 ;----------------------------------------------------
 
 Takes:  {
 	Current: ""
 }
-;Version 5 settings
+;Veeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeersion 5 seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeettings
 ;------------------------------------------------------------------
 
 Version5:  {
