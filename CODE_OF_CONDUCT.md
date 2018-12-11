@@ -1,76 +1,76 @@
-# Contributor Covenant Code of Conduct
+# Eeeeeeeeeee Eeeeeeee Eeee ee Eeeeeee
 
-## Our Pledge
+## Eee Eeeeee
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+Ee eee eeeeeeee ee eeeeeeeee ee eeee eee eeeeeeeee eeeeeeeeeee, ee ee
+eeeeeeeeeeee eee eeeeeeeeeee eeeeee ee eeeeee eeeeeeeeeeeee ee eee eeeeeee eee
+eee eeeeeeeee e eeeeeeeeee-eeee eeeeeeeeee eee eeeeeeee, eeeeeeeeee ee eee, eeee
+eeee, eeeeeeeeee, eeeeeeeee, eee eeeeeeeeeeeeeee, eeeeee eeeeeeee eee eeeeeeeeee,
+eeeee ee eeeeeeeeee, eeeeeeeee, eeeee-eeeeeeee eeeeee, eeeeeeeeeee, eeeeeeee
+eeeeeeeeee, eeee, eeeeeeee, ee eeeeee eeeeeeee eee eeeeeeeeeee.
 
-## Our Standards
+## Eee Eeeeeeeee
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Eeeeeeee ee eeeeeeee eeee eeeeeeeeeee ee eeeeeeee e eeeeeeee eeeeeeeeeee
+eeeeeee:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Eeeee eeeeeeeee eee eeeeeeeee eeeeeeee
+* Eeeee eeeeeeeeee ee eeeeeeeee eeeeeeeeee eee eeeeeeeeeee
+* Eeeeeeeeee eeeeeeeee eeeeeeeeeeee eeeeeeeee
+* Eeeeeeee ee eeee ee eeee eee eee eeeeeeeee
+* Eeeeeee eeeeeee eeeeeee eeeee eeeeeeeee eeeeeee
 
-Examples of unacceptable behavior by participants include:
+Eeeeeeee ee eeeeeeeeeeee eeeeeeee ee eeeeeeeeeeee eeeeeee:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+* Eee eee ee eeeeeeeeee eeeeeeee ee eeeeeee eee eeeeeeeee eeeeee eeeeeeeee ee
+ eeeeeeee
+* Eeeeeeee, eeeeeeeee/eeeeeeeeee eeeeeeee, eee eeeeeeee ee eeeeeeeee eeeeeee
+* Eeeeee ee eeeeeee eeeeeeeeee
+* Eeeeeeeeee eeeeee' eeeeeee eeeeeeeeeee, eeee ee e eeeeeeee ee eeeeeeeeee
+ eeeeeee, eeeeeee eeeeeeee eeeeeeeeee
+* Eeeee eeeeeee eeeee eeeee eeeeeeeeee ee eeeeeeeeee eeeeeeeeeeeee ee e
+ eeeeeeeeeeee eeeeeee
 
-## Our Responsibilities
+## Eee Eeeeeeeeeeeeeeee
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Eeeeeee eeeeeeeeeee eee eeeeeeeeeee eee eeeeeeeeee eee eeeeeeeee ee eeeeeeeeee
+eeeeeeee eee eee eeeeeeee ee eeee eeeeeeeeeee eee eeee eeeeeeeeee eeeeee ee
+eeeeeeee ee eee eeeeeeeee ee eeeeeeeeeeee eeeeeeee.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Eeeeeee eeeeeeeeeee eeee eee eeeee eee eeeeeeeeeeeeee ee eeeeee, eeee, ee
+eeeeee eeeeeeee, eeeeeee, eeee, eeee eeeee, eeeeee, eee eeeee eeeeeeeeeeeee
+eeee eee eee eeeeeee ee eeee Eeee ee Eeeeeee, ee ee eee eeeeeeeeeee ee
+eeeeeeeeeee eee eeeeeeeeeee eee eeeee eeeeeeeee eeee eeee eeee eeeeeeeeeeeee,
+eeeeeeeeeee, eeeeeeeee, ee eeeeeee.
 
-## Scope
+## Eeeee
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+Eeee Eeee ee Eeeeeee eeeeeee eeee eeeeee eeeeeee eeeeee eee ee eeeeee eeeeee
+eeee ee eeeeeeeeee ee eeeeeeeeeeee eee eeeeeee ee eee eeeeeeeee. Eeeeeeee ee
+eeeeeeeeeeee e eeeeeee ee eeeeeeeee eeeeeee eeeee ee eeeeeeee eeeeeee e-eeee
+eeeeeee, eeeeeee eee ee eeeeeeee eeeeee eeeee eeeeeee, ee eeeeee ee ee eeeeeeeee
+eeeeeeeeeeeeee ee ee eeeeee ee eeeeeee eeeee. Eeeeeeeeeeeeee ee e eeeeeee eee ee
+eeeeeee eeeeeee eee eeeeeeeee ee eeeeeee eeeeeeeeeee.
 
-## Enforcement
+## Eeeeeeeeeee
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee@tutanota.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Eeeeeeeee ee eeeeeee, eeeeeeeee, ee eeeeeeeee eeeeeeeeeeee eeeeeeee eee ee
+eeeeeeee ee eeeeeeeeee eee eeeeeee eeee ee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee@eeeeeeee.eee. Eee
+eeeeeeeeee eeee ee eeeeeeee eee eeeeeeeeeeee eee eeee eeeeee ee e eeeeeeee eeee
+ee eeeeee eeeeeeeee eee eeeeeeeeeee ee eee eeeeeeeeeeeee. Eee eeeeeee eeee ee
+eeeeeeeee ee eeeeeeee eeeeeeeeeeeeeee eeee eeeeee ee eee eeeeeeee ee ee eeeeeeee.
+Eeeeeee eeeeeee ee eeeeeeee eeeeeeeeeee eeeeeeee eee ee eeeeee eeeeeeeeee.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Eeeeeee eeeeeeeeeee eee ee eee eeeeee ee eeeeeee eee Eeee ee Eeeeeee ee eeee
+eeeee eee eeee eeeeeeeee ee eeeeeeeee eeeeeeeeeeeee ee eeeeeeeeee ee eeeee
+eeeeeee ee eee eeeeeee'e eeeeeeeeee.
 
-## Attribution
+## Eeeeeeeeeee
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Eeee Eeee ee Eeeeeee ee eeeeeee eeee eee [Eeeeeeeeeee Eeeeeeee][eeeeeeee], eeeeeee 1.4,
+eeeeeeeee ee eeeee://eee.eeeeeeeeeee-eeeeeeee.eee/eeeeeee/1/4/eeee-ee-eeeeeee.eeee
 
-[homepage]: https://www.contributor-covenant.org
+[eeeeeeee]: eeeee://eee.eeeeeeeeeee-eeeeeeee.eee
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+Eee eeeeeee ee eeeeee eeeeeeeee eeeee eeee eeee ee eeeeeee, eee
+eeeee://eee.eeeeeeeeeee-eeeeeeee.eee/eee
