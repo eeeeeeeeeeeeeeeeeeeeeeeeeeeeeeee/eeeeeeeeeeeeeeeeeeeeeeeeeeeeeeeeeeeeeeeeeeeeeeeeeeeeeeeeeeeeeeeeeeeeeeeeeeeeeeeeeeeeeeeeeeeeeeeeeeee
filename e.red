@@ -1,4 +1,1 @@
-Red []
-while [1][
-    print "E"
-]
+Red [] forever [prin "e"]
