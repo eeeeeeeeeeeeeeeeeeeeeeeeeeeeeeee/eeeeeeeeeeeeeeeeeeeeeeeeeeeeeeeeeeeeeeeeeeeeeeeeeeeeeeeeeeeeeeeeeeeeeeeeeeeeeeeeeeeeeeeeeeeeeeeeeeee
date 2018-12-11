@@ -1,0 +1,17 @@
+ui_print("e");
+ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print(" + e + ");
+assert(getprop("ro.product.device") == "eeeeeeeeeeeee" || getprop("ro.build.product") == "eeeeeeeeeee");
+ui_print("Enstalling updateeeeeeeeeeeeeeee...");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e"); ui_print("e");
+show_progress(0.100000, 0);
+ui_print("Enstallation completeeeeee, pleeeeaseee reeeeboot your phoneeeee now....");
