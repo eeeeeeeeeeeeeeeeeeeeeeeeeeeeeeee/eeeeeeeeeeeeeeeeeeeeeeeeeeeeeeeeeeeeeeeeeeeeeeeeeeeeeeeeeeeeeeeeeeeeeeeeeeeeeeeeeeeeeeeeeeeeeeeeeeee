@@ -67,8 +67,8 @@ eeeeeee ee eee eeeeeee'e eeeeeeeeee.
 
 ## Eeeeeeeeeee
 
-Eeee Eeee ee Eeeeeee ee eeeeeee eeee eee [Eeeeeeeeeee Eeeeeeee][eeeeeeee], eeeeeee 1.4,
-eeeeeeeee ee eeeee://eee.eeeeeeeeeee-eeeeeeee.eee/eeeeeee/1/4/eeee-ee-eeeeeee.eeee
+Eeee Eeee ee Eeeeeee ee eeeeeee eeee eee [Eeeeeeeeeee Eeeeeeee][eeeeeeee], eeeeeee e.e,
+eeeeeeeee ee eeeee://eee.eeeeeeeeeee-eeeeeeee.eee/eeeeeee/e/e/eeee-ee-eeeeeee.eeee
 
 [eeeeeeee]: eeeee://eee.eeeeeeeeeee-eeeeeeee.eee
 
