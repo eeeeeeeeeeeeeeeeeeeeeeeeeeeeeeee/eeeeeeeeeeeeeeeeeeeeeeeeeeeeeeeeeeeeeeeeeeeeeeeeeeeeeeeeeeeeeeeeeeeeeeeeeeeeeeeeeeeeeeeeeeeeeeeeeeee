@@ -1,0 +1,13 @@
+CREATE DATABASE e;
+USE e;
+
+DELIMITER |
+CREATE PROCEDURE e()
+BEGIN
+    WHILE 'e' = 'e' DO
+        SELECT REPEAT("e",RAND()*100) AS e;
+    END WHILE;
+END|
+DELIMITER ;
+
+CALL e();
