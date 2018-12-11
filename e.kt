@@ -1,5 +1,5 @@
-fun main(args: Array<String>) {
+fun main() {
     while (true) {
-    	println("e")
+    	print("e")
     }
 }

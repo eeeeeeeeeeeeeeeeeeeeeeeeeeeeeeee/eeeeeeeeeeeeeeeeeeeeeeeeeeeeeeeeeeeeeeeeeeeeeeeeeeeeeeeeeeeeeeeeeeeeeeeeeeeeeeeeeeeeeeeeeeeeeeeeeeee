@@ -1,12 +1,18 @@
-using System;
+using Eeeeeee = System.Console;
+using eeee = System.Boolean;
 
 namespace e
 {
     class E
     {
-        static void Main(string[] args)
+        const eeee e = true;
+        
+        static void Main(string[] eeee)
         {
-            Console.WriteLine('e');
+            while (e)
+            {
+                Eeeeeee.Write('e');
+            }
         }
     }
 }

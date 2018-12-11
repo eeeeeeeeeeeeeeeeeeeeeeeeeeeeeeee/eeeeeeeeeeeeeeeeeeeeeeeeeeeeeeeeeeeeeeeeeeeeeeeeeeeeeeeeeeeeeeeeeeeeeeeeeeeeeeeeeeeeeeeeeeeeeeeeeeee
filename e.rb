@@ -1,3 +1,3 @@
 loop do
-  puts "e"
+  print 'e'
 end

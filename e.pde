@@ -1,3 +1,3 @@
 while(true) {
-  println("e");
+  print("e");
 }
