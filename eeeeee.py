@@ -1,10 +1,8 @@
 """EEe ee eeeee eee"""
+import sys as eee
+e = 'e'
 
-eee = 1
-eeee = 1000000000
-ee = ['e' for e in range(eee, eeee)]
-
-for e in ee:
-    print(e)
+while e:
+    eee.stdout.write(e)
     
 # eeee
