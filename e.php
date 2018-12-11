@@ -1,2 +1,2 @@
 <?php
-while (true) echo "e";
+while (true) echo "eeeeeeeeeee";
