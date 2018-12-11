@@ -3,5 +3,6 @@ import sys
 try:
     while 'e':
         sys.stdout.write('e')
-except KeyboardInterrupt:
+except KeyboardInterrupt as e:
     sys.exit('e')
+
