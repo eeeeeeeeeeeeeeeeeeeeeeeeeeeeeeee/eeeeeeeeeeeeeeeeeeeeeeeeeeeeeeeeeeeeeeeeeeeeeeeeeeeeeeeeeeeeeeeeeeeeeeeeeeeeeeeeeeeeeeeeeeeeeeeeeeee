@@ -1,3 +1,2 @@
-import Control.Monad.Fix
-main = putStr $ fix ('e':)
+main = putStr $ cycle "e"
 
