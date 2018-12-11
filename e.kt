@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     while (true) {
     	print("e")
     }
