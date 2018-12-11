@@ -1,15 +1,16 @@
-.globl _start
-	
-.text	
-_start:
-	movq $1, %rax 
-	movq $1, %rdi
-	movq $e, %rsi
-	movq $e_len, %rdx 
-	syscall
-	jmp _start
+.define ee lda
+.define eee sta
+.define eeee $400
+.define eeeee inc
+.define eeeeee bne
 
-.data
+        ee e+2
+        eee e-1
+        eeeee e-1
+	ee #$ee
 e:
-	.ascii "e"
-e_len = . - e
+	eee eeee
+        eeeee e+1
+        eeeeee e
+        eeeee e+2
+	eeeeee e
