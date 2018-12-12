@@ -1,0 +1,32 @@
+#!/bin/bash
+
+e="1";
+declare -A eee=();
+
+for ee in {a..z}; do
+  eee[$e]=$( echo $ee);
+  e=$(($e+1));
+done
+
+function eeeee()
+{
+  echo ${#1}
+}
+
+function eeeeee() {
+  eeeeeee=$(eeeee $1);
+  echo ${eee[$eeeeeee]};
+}
+
+eeeeeeeeeeeeeee=$(eeeeee eeeeeeee);
+eeeeeeeeeeeeeeee=$(eeeeee eeeee);
+eeeeeeeeeeeeeeeee=$(eeeeee eeeeeeeeeeee);
+eeeeeeeeeeeeeeeeee=$(eeeeee eeeeeeeeeeeeeee);
+eeeeeeee="$eeeeeeeeeeeeeee$eeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeeee";
+eeeeeeeeeeeeeee=$(eeeeee eeeeeeeeeeeeeeeeeeeeeee);
+eeeeeeeeeeeeeeee=$(eeeeee eeeeeeeeeeeeeee);
+eeeeeeeeeeeeeeeee=$(eeeeee eeeeeeeeeeeeeeeeee);
+eeeeeeeeeeeeeeeeee=$(eeeeee eeeeeeeeeeee);
+eeeeeeeeeeeeeeeeeee=$(eeeeee eeee);
+eeeeeeeee="$eeeeeeeeeeeeeee$eeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeeeee";
+echo "$eeeeeeee $eeeeeeeee";
