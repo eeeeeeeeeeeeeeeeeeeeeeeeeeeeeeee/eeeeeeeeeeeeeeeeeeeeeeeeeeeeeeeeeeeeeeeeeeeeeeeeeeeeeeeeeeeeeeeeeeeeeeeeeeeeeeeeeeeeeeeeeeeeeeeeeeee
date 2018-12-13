@@ -1,0 +1,8 @@
+defmodule E do
+	def e(e,n) do
+		IO.puts e
+	    e(e, n + 1)
+	end
+end
+
+E.e("e", 1)
