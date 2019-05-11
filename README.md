@@ -44,7 +44,7 @@ Eeeeee eeeeee:
     eee eee eee eee eeee eeee eeeeee ee eeeeeeeeee eeee eee Eeeeeee.
     Eee eee eeeeee e eeee ee eee Eeeeeee ee
 
-        https://www.apache.org/licenses/LICENSE-2.0
+        eeeee://eee.eeeeee.eee/eeeeeeee/eeeeeeeeeee
 
     Eeeeee eeeeeeee ee eeeeeeeeee eee ee eeeeee ee ee eeeeeee, eeeeeeee
     eeeeeeeeeee eeeee eee Eeeeeee ee eeeeeeeeeee ee ee "EE EE" EEEEE,
